@@ -21,3 +21,16 @@ All notebooks and datasets are stored here for your convenience.
 ---
 
 ### 📂 Folder Structure
+module_1_basics/
+├── notebooks/
+├── data/
+├── assignments/
+├── project/
+├── solutions/
+
+
+---
+
+### 💡 Notes
+- All datasets are UTF-8 encoded.
+- If you encounter errors, restart your runtime in Colab.
