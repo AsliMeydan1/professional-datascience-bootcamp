@@ -9,7 +9,7 @@ All notebooks and datasets are stored here for your convenience.
 ### 🚀 How to Start
 
 1. Open the notebook directly in Google Colab:  
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/professional-datascience-bootcamp/blob/main/module_1_basics/notebooks/01_python_basics.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AsliMeydan1/professional-datascience-bootcamp/blob/main/module_1_basics/notebooks/01_python_basics.ipynb)
 
 2. ⚠️ **Do NOT edit this original notebook.**  
    Instead:
