@@ -45,3 +45,4 @@ module_1_basics/
 ### 💡 Notes
 - All datasets are UTF-8 encoded.
 - If you encounter errors, restart your runtime in Colab.
+- To reset the environment, re-run `00_data_setup.ipynb`.
