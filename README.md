@@ -8,15 +8,26 @@ All notebooks and datasets are stored here for your convenience.
 
 ### 🚀 How to Start
 
-1. Open the notebook directly in Google Colab:  
-   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AsliMeydan1/professional-datascience-bootcamp/blob/main/module_1_basics/notebooks/01_python_basics.ipynb)
+Below are all notebooks for this module.  
+You can open each directly in **Google Colab** ⬇️
 
-2. ⚠️ **Do NOT edit this original notebook.**  
-   Instead:
-   - Option 1: `File > Save a copy in Drive`
-   - Option 2: `File > Save a copy in GitHub` (recommended)
+| Notebook | Description | Open in Colab |
+|-----------|--------------|----------------|
+| `00_data_setup.ipynb` | Environment setup & data download | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AsliMeydan1/professional-datascience-bootcamp/blob/main/module_1_basics/notebooks/00_data_setup_with_instructions.ipynb) |
+| `01_python_basics.ipynb` | Python fundamentals | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AsliMeydan1/professional-datascience-bootcamp/blob/main/module_1_basics/notebooks/01_python_basics.ipynb) |
+| `02_pandas_intro.ipynb` | Intro to pandas | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AsliMeydan1/professional-datascience-bootcamp/blob/main/module_1_basics/notebooks/02_pandas_intro.ipynb) |
+| `03_pandas_advanced.ipynb` | Advanced pandas (groupby, merge, pivot, apply) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AsliMeydan1/professional-datascience-bootcamp/blob/main/module_1_basics/notebooks/03_pandas_advanced.ipynb) |
+| `04_data_visualization.ipynb` | Data visualization (matplotlib & seaborn) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AsliMeydan1/professional-datascience-bootcamp/blob/main/module_1_basics/notebooks/04_data_visualization.ipynb) |
+| `05_mini_project_netflix.ipynb` | Mini project: Netflix EDA | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AsliMeydan1/professional-datascience-bootcamp/blob/main/module_1_basics/notebooks/05_mini_project_netflix.ipynb) |
 
-3. Work on your own copy and commit your progress.
+---
+
+### ⚠️ Important Notes
+- **Do NOT edit these original notebooks.**  
+  Instead:
+  - Option 1: `File > Save a copy in Drive`
+  - Option 2: `File > Save a copy in GitHub` (recommended)
+- Work on your own copy and commit your progress regularly.
 
 ---
 
